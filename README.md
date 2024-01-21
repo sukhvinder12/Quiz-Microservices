@@ -18,8 +18,8 @@ This project demonstrates the setup of a Spring Cloud Gateway acting as an API G
 
 Test the API Gateway by sending requests to the configured paths for your microservices.
 
--Quiz Service: http://localhost:8083/quiz
--Question Service: http://localhost:8083/question
+- Quiz Service: http://localhost:8083/quiz
+- Question Service: http://localhost:8083/question
 
 
 
